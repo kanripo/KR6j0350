@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:45.137148
+#+DATE: 2015-08-30 20:30:45.356605
 #+TITLE: 金剛壽命陀羅尼經
 #+PROPERTY: CBETA_ID T20n1134B
 #+PROPERTY: ID KR6j0350
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1134B
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6j0350_T_000-0577b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0350_T_001-0577b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1134B[cf.Nos.1133,1134A]¶
-
- 金剛壽命陀羅尼經¶
+No. 1134B [cf. Nos. 1133, 1134A]¶
+金剛壽命陀羅尼經¶
 ¶
 特進試鴻臚卿大辨正¶
 大廣智三藏奉　詔譯¶
@@ -39,13 +38,13 @@ No.1134B[cf.Nos.1133,1134A]¶
 我。何所作為。佛告降三世菩薩。汝今降伏彼¶
 難調伏諸大天等。令悉歸依諸佛法僧發菩¶
 提心。尋即降伏一切諸天。盡皆歸依佛法僧¶
-眾。唯大自在天。特大威德而生拒敵。降三¶
+眾。唯大自在天。恃大威德而生拒敵。降三¶
 世菩薩種種苦治乃至於死(左踏大天右踏天后)於是毘盧¶
 遮那如來。入大悲愍三摩地已。即說金剛壽¶
 命陀羅尼。復入金剛壽命三昧耶。及結密印¶
 加持摩醯首羅天王。還復得甦重增壽命。歸¶
 依諸佛發菩提心。灌頂受記證得八地位。金¶
-剛壽命真言。¶
+剛壽命真言曰。¶
 
 唵嚩日囉二合喻曬薩嚩二合訶引¶
 ¶
