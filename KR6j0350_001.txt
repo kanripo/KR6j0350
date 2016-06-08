@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:45.137148
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:56
 #+TITLE: 金剛壽命陀羅尼經
 #+PROPERTY: CBETA_ID T20n1134B
 #+PROPERTY: ID KR6j0350
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1134B
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0350_T_000-0577b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0350_T_001-0577b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1134B[cf.Nos.1133,1134A]¶
-
- 金剛壽命陀羅尼經¶
+No. 1134B [cf. Nos. 1133, 1134A]¶
+金剛壽命陀羅尼經¶
 ¶
 特進試鴻臚卿大辨正¶
 大廣智三藏奉　詔譯¶
